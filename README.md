@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello World! 🦎
+Hi, I'm Alex, a computer science student in my final year of undergrad at Queen's University, Canada, currently on exchange at Universitas Indonesia. I am a software dev enthusaiast with a passion for equitable ML. When I'm not immersed in code, you can find me cooking, travelling, trying to play movie tracks on piano, or hanging with friends! 
+
+- 🌱 I’m currently learning Flutter
+- 🎵 I’m looking to collaborate on music ML projects!
+- 🤔 I’m looking for help with exploring the cybersecurity space!
+- 💬 Ask me about what I'm reading in ML ethics!
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: he/him
 
 <!--
 **ankou-k/ankou-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
