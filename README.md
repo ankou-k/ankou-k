@@ -1,5 +1,5 @@
 ## Hello World! 🦎
-Hi, I'm Alex, a computer science student in my final year of undergrad at Queen's University, Canada, currently on exchange at Universitas Indonesia. I am a software dev enthusaiast with a passion for equitable ML. When I'm not immersed in code, you can find me cooking, travelling, trying to play movie tracks on piano, or hanging with friends! 
+Hi, I'm Alex, a computer science student in my final year of undergrad at Queen's University, Canada. I am a software dev enthusaiast with a passion for equitable ML. When I'm not immersed in code, you can find me cooking, travelling, trying to play movie tracks on piano, or hanging with friends! 
 
 - 🌱 I’m currently learning Flutter
 - 🎵 I’m looking to collaborate on music ML projects!
